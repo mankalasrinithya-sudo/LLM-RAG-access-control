@@ -1,0 +1,16 @@
+{
+  "users": {
+    "userA": {
+      "allowed_documents": [
+        "userA/Advanced_Algorithms_and_Analysis.pdf",
+        "userA/Cryptography_and_Network_Security.pdf"
+      ]
+    },
+    "userB": {
+      "allowed_documents": [
+        "userB/Python.pdf",
+        "userB/Web_Application_Penetration_Testing.pdf"
+      ]
+    }
+  }
+}
